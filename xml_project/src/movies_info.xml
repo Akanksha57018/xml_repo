@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "Movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>3 idiots</title>
+    <release-date>
+    <date>13</date>
+    <month>6</month>
+    <year>2019</year></release-date>
+    <theater-name>bollywood</theater-name>
+     <theater-name>citypride</theater-name>
+     <city>pune</city>
+     <city>mumbai</city>
+ <city>delhi</city>
+ <city>indore</city>
+  </movie>
+  <movie>
+  <code>105</code>
+  <title>sholay</title>
+   <theater-name>PVR cinemas</theater-name>
+   </movie>
+</movies>
